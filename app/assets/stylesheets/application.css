@@ -13,3 +13,16 @@
  *= require_tree .
  *= require_self
  */
+body{
+  line-spacing: 1.5;
+}
+h1{
+  color: red;
+}
+
+h4{
+  color: green;
+}
+ul{
+  list-style-type: none;
+}
